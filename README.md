@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @olenahladkova
-- 👀 I’m interested in Frontend Dewelopment
-- 🌱 I’m currently taking course on CodeAcademy "Front-End Engineer Career Path"
-- 💞️ I’m looking for remote trainee or junior posititon
 - 📫 How to reach me: write on email hladkova.sk@gmail.com
 
 <!---
